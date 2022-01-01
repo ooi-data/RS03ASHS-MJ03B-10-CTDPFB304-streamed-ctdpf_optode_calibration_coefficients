@@ -1,5 +1,5 @@
 data_ready: false
 data_stream: RS03ASHS-MJ03B-10-CTDPFB304-streamed-ctdpf_optode_calibration_coefficients
-last_request: '2021-12-21T23:04:13.785725Z'
+last_request: '2022-01-01T02:26:59.936622Z'
 response: https://raw.githubusercontent.com/ooi-data/RS03ASHS-MJ03B-10-CTDPFB304-streamed-ctdpf_optode_calibration_coefficients/main/history/response.json
 status: discontinued
